@@ -1,0 +1,2 @@
+node_modules/
+*.txt  # Exclude text files (optional, depending on your use case)
