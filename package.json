@@ -1,0 +1,14 @@
+{
+  "name": "github-repo-fetcher",
+  "version": "1.0.0",
+  "description": "Fetch GitHub repositories for a user and save them to a text file.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Amr Bedir",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.5.0"
+  }
+}
